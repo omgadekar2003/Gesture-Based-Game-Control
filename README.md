@@ -13,3 +13,4 @@ Left- only left palm open
 Right- only right palm open
 
 See Home Page Video to Use Gestures Correctly to Play Game.
+visit to downoad code for windows, mac :gestureplay.streamlit.app
